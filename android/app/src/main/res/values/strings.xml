@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">dev_settings_prod</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey" translatable="false">SOME-KEY-HERE</string>
 </resources>
